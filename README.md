@@ -6,7 +6,7 @@ https://leetcode.com/tarmacChen/
 ## ToDo
 
 2022-10-26 Sat.
-- [ ] 0141.Linked List Cycle
+- [x] 0141.Linked List Cycle
 - [ ] 0447.Number-of-Boomerangs
 - [ ] 0295.Find-Median-from-Data-Stream
 - [ ] 0270.Closest-Binary-Search-Tree-Value/
