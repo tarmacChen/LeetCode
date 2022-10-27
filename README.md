@@ -7,7 +7,6 @@ https://leetcode.com/tarmacChen/
 
 ## ToDo
 
-- [ ] 0003.Longest Substring Without Repeating Characters
 - [ ] 0005.Longest Palindromic Substring
 - [ ] 0019.Remove Nth Node From End of List
 - [ ] 0020.Valid Parentheses
@@ -18,9 +17,12 @@ https://leetcode.com/tarmacChen/
 ---
 ## Done
 
-- [x] 0141.Linked List Cycle
-- [x] 0447.Number of Boomerangs
+> 2022-10-27 Thu
 - [X] 0110.Balanced Binary Tree
+- [X] 0003.Longest Substring Without Repeating Characters
+
+> 2022-10-26 Wed
+- [x] 0447.Number of Boomerangs
 
 > 2022-10-25 Tue.
 - [x] 1402. Reducing Dishes
@@ -28,6 +30,7 @@ https://leetcode.com/tarmacChen/
 - [x] 0166. Fraction to Recurring Decimal
 - [x] 0034. Find First and Last Position of Element in Sorted Array
 - [x] 1052. Grumpy Bookstore Owner
+- [x] 0141.Linked List Cycle
 
 > 2022-10-24 Mon.
 - [x] 0144. Binary Tree Preorder Traversal
