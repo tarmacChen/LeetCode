@@ -7,9 +7,6 @@ https://leetcode.com/tarmacChen/
 
 ## ToDo
 
-- [x] 0141.Linked List Cycle
-- [x] 0447.Number of Boomerangs
-- [ ] 0110.Balanced Binary Tree
 - [ ] 0003.Longest Substring Without Repeating Characters
 - [ ] 0005.Longest Palindromic Substring
 - [ ] 0019.Remove Nth Node From End of List
@@ -20,6 +17,10 @@ https://leetcode.com/tarmacChen/
 
 ---
 ## Done
+
+- [x] 0141.Linked List Cycle
+- [x] 0447.Number of Boomerangs
+- [X] 0110.Balanced Binary Tree
 
 > 2022-10-25 Tue.
 - [x] 1402. Reducing Dishes
