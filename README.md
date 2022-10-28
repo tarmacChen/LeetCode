@@ -7,11 +7,10 @@ https://leetcode.com/tarmacChen/
 
 ## InProgress
 
-- [ ] 0033.Search in Rotated Sorted Array
+- [ ] 0039.Combination Sum
 
 ## ToDo
 
-- [ ] 0039.Combination Sum
 - [ ] 0048.Rotate Image
 - [ ] 0049.Group Anagrams
 - [ ] 0053.Maximum Subarray
@@ -24,6 +23,7 @@ https://leetcode.com/tarmacChen/
 > 2022-10-29 Sat.
 - [X] 0021.Merge Two Sorted Lists
 - [X] 0023.Merge k Sorted Lists
+- [X] 0033.Search in Rotated Sorted Array
 
 > 2022-10-28 Fri.
 - [X] 0019.Remove Nth Node From End of List
