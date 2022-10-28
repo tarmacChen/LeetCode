@@ -18,14 +18,14 @@ https://leetcode.com/tarmacChen/
 ---
 ## Done
 
-> 2022-10-28 Thu
+> 2022-10-28 Fri.
 - [X] 0019.Remove Nth Node From End of List
 
-> 2022-10-27 Thu
+> 2022-10-27 Thu.
 - [X] 0110.Balanced Binary Tree
 - [X] 0003.Longest Substring Without Repeating Characters
 
-> 2022-10-26 Wed
+> 2022-10-26 Wed.
 - [x] 0447.Number of Boomerangs
 
 > 2022-10-25 Tue.
