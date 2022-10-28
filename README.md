@@ -7,11 +7,10 @@ https://leetcode.com/tarmacChen/
 
 ## InProgress
 
-- [ ] 0020.Valid Parentheses
+- [ ] 0021.Merge Two Sorted Lists
 
 ## ToDo
 
-- [ ] 0021.Merge Two Sorted Lists
 - [ ] 0023.Merge k Sorted Lists
 - [ ] 0033.Search in Rotated Sorted Array
 
@@ -20,6 +19,7 @@ https://leetcode.com/tarmacChen/
 
 > 2022-10-28 Fri.
 - [X] 0019.Remove Nth Node From End of List
+- [X] 0020.Valid Parentheses
 
 > 2022-10-27 Thu.
 - [X] 0110.Balanced Binary Tree
