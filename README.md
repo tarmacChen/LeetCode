@@ -9,14 +9,17 @@
 
 ## Changelog
 
-| Order | Date            | Number | Title                                                   | Tag                                | Readme       |
+| Order | Date            | Number | Title                                                   | Tag                                | ReadMe       |
 |-------|-----------------|--------|---------------------------------------------------------|------------------------------------|--------------|
 |       | -               | 0055   | Jump Game                                               |                                    |              |
 |       | -               | 0054   | Spiral Matrix                                           |                                    |              |
 |       | -               | 0053   | Maximum Subarray                                        |                                    |              |
 |       | -               | 0049   | Group Anagrams                                          |                                    |              |
 |       | -               | 0048   | Rotate Image                                            |                                    |              |
-| >     | -               | 0039   | Combination Sum                                         | `Graph`, `DFS`                     |              |
+|       | -               | 0039   | Combination Sum                                         | `Graph`, `DFS`                     |              |
+| >     | -               | 1791   | Find Center of Star Graph                               | `Graph`                            |              |
+| 25    | -               | 1971   | Find if Path Exists in Graph                            | `Graph`                            |              |
+| 24    | -               | 0997   | Find the Town Judge                                     | `Graph`                            |              |
 | 23    |                 | 0033   | Search in Rotated Sorted Array                          | `BinarySearch`                     |              |
 | 22    |                 | 0023   | Merge k Sorted Lists                                    | `LinkedList`, `Recursion`          |              |
 | 21    | 2022-10-29 Sat. | 0021   | Merge Two Sorted Lists                                  | `LinkedList`, `Recursion`          |              |
