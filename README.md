@@ -16,8 +16,8 @@
 |       | -               | 0053   | Maximum Subarray                                        |                                    |              |
 |       | -               | 0049   | Group Anagrams                                          |                                    |              |
 |       | -               | 0048   | Rotate Image                                            |                                    |              |
-|       | -               | 0039   | Combination Sum                                         | `Graph`, `DFS`                     |              |
-| >     | -               | 1791   | Find Center of Star Graph                               | `Graph`                            |              |
+| >     | -               | 0039   | Combination Sum                                         | `Graph`, `DFS`                     |              |
+| 26    | -               | 1791   | Find Center of Star Graph                               | `Graph`                            |              |
 | 25    | -               | 1971   | Find if Path Exists in Graph                            | `Graph`                            |              |
 | 24    | -               | 0997   | Find the Town Judge                                     | `Graph`                            |              |
 | 23    |                 | 0033   | Search in Rotated Sorted Array                          | `BinarySearch`                     |              |
