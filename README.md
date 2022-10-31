@@ -11,6 +11,15 @@
 
 | Order | Date            | Number | Title                                                   | Tag                                        | ReadMe       |
 |-------|-----------------|--------|---------------------------------------------------------|--------------------------------------------|--------------|
+|       | -               | 0098   | Validate Binary Search Tree                             |                                            |              |
+|       | -               | 0091   | Decode Ways                                             |                                            |              |
+|       | -               | 0079   | Word Search                                             |                                            |              |
+|       | -               | 0076   | Minimum Window Substring                                |                                            |              |
+|       | -               | 0073   | Set Matrix Zeroes                                       |                                            |              |
+|       | -               | 0070   | Climbing Stairs                                         |                                            |              |
+|       | -               | 0062   | Unique Paths                                            |                                            |              |
+|       | -               | 0057   | Insert Interval                                         |                                            |              |
+|       | -               | 0056   | Merge Intervals                                         |                                            |              |
 | >     | -               | 0055   | Jump Game                                               |                                            |              |
 | 31    |                 | 0054   | Spiral Matrix                                           | `Array`                                    |              |
 | 30    | 2022-11-01 Tue. | 0053   | Maximum Subarray                                        | `Kadane's Algorithm`, `Divide and Conquer` |              |
