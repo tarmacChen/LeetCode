@@ -17,8 +17,8 @@
 |       | -               | 0076   | Minimum Window Substring                                |                                            |              |
 |       | -               | 0073   | Set Matrix Zeroes                                       |                                            |              |
 |       | -               | 0070   | Climbing Stairs                                         |                                            |              |
-|       | -               | 0062   | Unique Paths                                            |                                            |              |
 | >     | -               | 0057   | Insert Interval                                         |                                            |              |
+| 34    | 2022-11-03 Thu. | 0062   | Unique Paths                                            | `Array`                                    |              |
 | 33    |                 | 0056   | Merge Intervals                                         | `Array`                                    |              |
 | 32    | 2022-11-02 Wed. | 0055   | Jump Game                                               | `Greedy`                                   |              |
 | 31    |                 | 0054   | Spiral Matrix                                           | `Array`                                    |              |
@@ -55,7 +55,7 @@
 
 ---
 
-## I Can't Solve Problems 
+## I can't solve the problem
 
 - [ ] 0295.Find-Median from Data Stream
 - [ ] 0005.Longest Palindromic Substring
