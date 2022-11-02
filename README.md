@@ -18,8 +18,8 @@
 |       | -               | 0073   | Set Matrix Zeroes                                       |                                            |              |
 |       | -               | 0070   | Climbing Stairs                                         |                                            |              |
 |       | -               | 0062   | Unique Paths                                            |                                            |              |
-|       | -               | 0057   | Insert Interval                                         |                                            |              |
-| >     | -               | 0056   | Merge Intervals                                         |                                            |              |
+| >     | -               | 0057   | Insert Interval                                         |                                            |              |
+| 33    |                 | 0056   | Merge Intervals                                         | `Array`                                    |              |
 | 32    | 2022-11-02 Wed. | 0055   | Jump Game                                               | `Greedy`                                   |              |
 | 31    |                 | 0054   | Spiral Matrix                                           | `Array`                                    |              |
 | 30    | 2022-11-01 Tue. | 0053   | Maximum Subarray                                        | `Kadane's Algorithm`, `Divide and Conquer` |              |
