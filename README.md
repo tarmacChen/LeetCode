@@ -16,8 +16,8 @@
 |       | -               | 0079   | Word Search                                             |                                            |              |
 |       | -               | 0076   | Minimum Window Substring                                |                                            |              |
 |       | -               | 0073   | Set Matrix Zeroes                                       |                                            |              |
-|       | -               | 0070   | Climbing Stairs                                         |                                            |              |
 | >     | -               | 0057   | Insert Interval                                         |                                            |              |
+| 35    | 2022-11-04 Fri. | 0070   | Climbing Stairs                                         | `Fibonacci Sequence`                       |              |
 | 34    | 2022-11-03 Thu. | 0062   | Unique Paths                                            | `Array`                                    |              |
 | 33    |                 | 0056   | Merge Intervals                                         | `Array`                                    |              |
 | 32    | 2022-11-02 Wed. | 0055   | Jump Game                                               | `Greedy`                                   |              |
